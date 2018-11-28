@@ -24,4 +24,5 @@ weight = 3
 #  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because it is beautiful.
+'The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because it is beautiful.'
+                                                               -Henri Poinaré
