@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Quantum Field Theory",
+    "String Theory",
+    "Higher Category Theory"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -21,7 +21,7 @@ weight = 5
   institution = "Indian Institute of Technology, Kanpur"
   year = 2019
   
-  [[education.courses]]
+[[education.courses]]
   course = "MS in Mathematics and Scientific Computing"
   institution = "Indian Institute of Technology, Kanpur"
   year = 2020
@@ -29,4 +29,3 @@ weight = 5
 +++
 
 # Biography
-BLAH BLAH
