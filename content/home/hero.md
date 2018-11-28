@@ -24,4 +24,4 @@ weight = 3
 #  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes
+The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because it is beautiful.
